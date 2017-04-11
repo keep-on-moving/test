@@ -3,7 +3,8 @@
   "description": "Yii2 secondTie test",  
   "keywords": [  
     "yii2",  
-    "test"  
+    "test",
+    "first" 	  
   ],  
   "homepage": "https://github.com/secondTie/test",  
   "type": "yii2-extension",  
