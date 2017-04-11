@@ -1,20 +1,20 @@
 {  
-  "name": "secondTie/test",  
-  "description": "Yii2 secondTie test",  
+  "name": "keep-on-moving/test",  
+  "description": "Yii2 keep-on-moving test",  
   "keywords": [  
     "yii2",  
     "test",
     "first" 	  
   ],  
-  "homepage": "https://github.com/secondTie/test",  
+  "homepage": "https://github.com/keep-on-moving/test",  
   "type": "yii2-extension",  
   "license": "MIT",  
   "support": {  
-    "source": "https://github.com/secondTie/test"  
+    "source": "https://github.com/keep-on-moving/test"  
   },  
   "authors": [  
     {  
-      "name": "secondTie",  
+      "name": "keep-on-moving",  
       "email": "13718259084@163.com"  
     }  
   ],  
