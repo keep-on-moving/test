@@ -1,0 +1,34 @@
+{  
+  "name": "secondTie/test",  
+  "description": "Yii2 secondTie test",  
+  "keywords": [  
+    "yii2",  
+    "test"  
+  ],  
+  "homepage": "https://github.com/secondTie/test",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/secondTie/test"  
+  },  
+  "authors": [  
+    {  
+      "name": "secondTie",  
+      "email": "13718259084@163.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "terry\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+} 
